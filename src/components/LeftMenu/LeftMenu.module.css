@@ -1,0 +1,20 @@
+.left-menu-container {
+    display: flex;
+    position: relative;
+    
+   
+    
+  }
+
+.menu{
+  width:100%;
+  min-width: 200px;
+  
+  background-color: #f1f1f1;
+}
+
+
+  
+  
+
+  
